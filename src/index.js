@@ -6,4 +6,7 @@ function reverse(num) {
     };
     return Number(result);
 };
-// console.log(reverse(1994));
+console.log(reverse(123));
+console.log(reverse(233));
+console.log(reverse(535));
+console.log(reverse(95034));
